@@ -1,10 +1,10 @@
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
-client_id = '7c8f0c578676415db59310fec119001f'
-client_secret = '0c84a139779a4e2eb948ec26d42cc68c'
-redirect_uri = 'http://localhost:8888/callback'
-playlist_id = '5DP1grYsjsxa4aPEiXkGy8'
+client_id = ''
+client_secret = ''
+redirect_uri = ''
+playlist_id = ''
 
 def get_spotify_tracks(playlist_id):
     # Replace with your Spotify app credentials
